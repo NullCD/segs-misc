@@ -332,7 +332,7 @@
         <div class="als-card als-fade-in">
             <div class="als-card-header">
                 <div class="als-logo-section">
-                    <div class="als-logo-text">~ ANXETY ~</div>
+                    <div class="als-logo-text">~ SlopPrinter ~</div>
                     <div class="als-subtitle">Stable Diffusion WebUI</div>
                 </div>
             </div>
