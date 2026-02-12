@@ -1,2 +1,1 @@
-# segs-misc
-Additional things.
+Credit for these scripts: Anxety-Solo.
